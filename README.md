@@ -1,4 +1,4 @@
 # first-project
 This is my First Git Repository
 <br>
-Author - Amit Kumar
+Author - Amit Kumar Singh
